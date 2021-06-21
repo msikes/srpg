@@ -2,6 +2,9 @@
 using UnityEngine;
 using System.Collections;
 
+// Billboard :
+// Transforms sprite object to always face the camera
+
 public class Billboard : MonoBehaviour
 {
 
